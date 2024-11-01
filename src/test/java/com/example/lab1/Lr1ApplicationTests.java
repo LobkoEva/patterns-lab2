@@ -1,10 +1,10 @@
-package com.karazin.demo;
+package com.example.lab1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class Lr1ApplicationTests {
 
     @Test
     void contextLoads() {

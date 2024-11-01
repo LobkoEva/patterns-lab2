@@ -1,4 +1,4 @@
-package com.karazin.demo;
+package com.example.lab1;
 
 import lombok.Getter;
 import lombok.Setter;
